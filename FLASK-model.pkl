@@ -1,1 +1,1 @@
-C:\Users\palla\Downloads\model.pkl
+C:\Users\project\Downloads\model.pkl
